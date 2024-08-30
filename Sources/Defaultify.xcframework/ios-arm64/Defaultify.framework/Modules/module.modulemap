@@ -1,0 +1,6 @@
+framework module Defaultify {
+  umbrella header "Defaultify.h"
+  export *
+
+  module * { export * }
+}
