@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.version      = "1.0.0"
   s.summary      = "Defaultify a tool to Manage And Report Bugs"
   s.description  = <<-DESC
-  "Bug Management And Reporting Tools"
+  "Defaultify a tool to Manage And Report Bugs"
                    DESC
 
   s.homepage     = "https://github.com/defaultifytracker/iOS.git"
